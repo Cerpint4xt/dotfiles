@@ -1,0 +1,6 @@
+[submodule ".config/mpv/script_modules/mpvSockets"]
+	path = .config/mpv/script_modules/mpvSockets
+	url = https://github.com/wis/mpvSockets.git
+[submodule "/home/raul/.config/nvim"]
+	path = /home/raul/.config/nvim
+	url = git@github.com:Cerpint4xt/nvim.git
