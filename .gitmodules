@@ -7,3 +7,6 @@
 [submodule "/home/raul/.config/zsh"]
 	path = /home/raul/.config/zsh
 	url = git@github.com:Cerpint4xt/zsh.git
+[submodule "/home/raul/.config/newsboat"]
+	path = /home/raul/.config/newsboat
+	url = git@github.com:Cerpint4xt/newsboat.git
