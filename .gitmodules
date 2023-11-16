@@ -10,3 +10,6 @@
 [submodule "/home/raul/.config/newsboat"]
 	path = /home/raul/.config/newsboat
 	url = git@github.com:Cerpint4xt/newsboat.git
+[submodule "/home/raul/.config/zathura"]
+	path = /home/raul/.config/zathura
+	url = git@github.com:Cerpint4xt/zathura.git
