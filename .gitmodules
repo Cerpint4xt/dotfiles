@@ -1,18 +1,18 @@
 [submodule ".config/mpv/script_modules/mpvSockets"]
 	path = .config/mpv/script_modules/mpvSockets
 	url = https://github.com/wis/mpvSockets.git
-[submodule "/home/raul/.config/nvim"]
-	path = /home/raul/.config/nvim
-	url = git@github.com:Cerpint4xt/nvim.git
-[submodule "/home/raul/.config/zsh"]
-	path = /home/raul/.config/zsh
-	url = git@github.com:Cerpint4xt/zsh.git
-[submodule "/home/raul/.config/newsboat"]
-	path = /home/raul/.config/newsboat
-	url = git@github.com:Cerpint4xt/newsboat.git
-[submodule "/home/raul/.config/zathura"]
-	path = /home/raul/.config/zathura
-	url = git@github.com:Cerpint4xt/zathura.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = /home/raul/.config/nvim
+[submodule ".config/zsh"]
+	path = .config/zsh
+	url = /home/raul/.config/zsh
+[submodule ".config/newsboat"]
+	path = .config/newsboat
+	url = /home/raul/,config/newsboat
+[submodule ".config/zathura"]
+	path = .config/zathura
+	url = /home/raul/.config/zathura
 [submodule ".config/lazygit"]
 	path = .config/lazygit
 	url = /home/raul/.config/lazygit/
