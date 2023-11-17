@@ -16,3 +16,6 @@
 [submodule ".config/lazygit"]
 	path = .config/lazygit
 	url = /home/raul/.config/lazygit/
+[submodule ".config/starship"]
+	path = .config/starship
+	url = /home/raul/.config/starship
