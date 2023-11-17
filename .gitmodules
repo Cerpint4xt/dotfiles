@@ -13,3 +13,6 @@
 [submodule "/home/raul/.config/zathura"]
 	path = /home/raul/.config/zathura
 	url = git@github.com:Cerpint4xt/zathura.git
+[submodule ".config/lazygit"]
+	path = .config/lazygit
+	url = /home/raul/.config/lazygit/
