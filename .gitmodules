@@ -19,3 +19,6 @@
 [submodule ".config/starship"]
 	path = .config/starship
 	url = /home/raul/.config/starship
+[submodule ".config/tmux"]
+	path = .config/tmux
+	url = /home/raul/.config/tmux
