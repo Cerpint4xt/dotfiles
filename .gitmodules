@@ -22,3 +22,6 @@
 [submodule ".config/tmux"]
 	path = .config/tmux
 	url = https://github.com/Cerpint4xt/tmux.git
+[submodule ".config/shell"]
+	path = .config/shell
+	url = https://github.com/Cerpint4xt/shell.git
