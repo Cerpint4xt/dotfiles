@@ -3,22 +3,22 @@
 	url = https://github.com/wis/mpvSockets.git
 [submodule ".config/nvim"]
 	path = .config/nvim
-	url = /home/raul/.config/nvim
+	url = https://github.com/Cerpint4xt/nvim.git
 [submodule ".config/zsh"]
 	path = .config/zsh
-	url = /home/raul/.config/zsh
+	url = https://github.com/Cerpint4xt/zsh.git
 [submodule ".config/newsboat"]
 	path = .config/newsboat
-	url = /home/raul/,config/newsboat
+	url = https://github.com/Cerpint4xt/newsboat.git
 [submodule ".config/zathura"]
 	path = .config/zathura
-	url = /home/raul/.config/zathura
+	url = https://github.com/Cerpint4xt/zathura.git
 [submodule ".config/lazygit"]
 	path = .config/lazygit
-	url = /home/raul/.config/lazygit/
+	url = https://github.com/Cerpint4xt/lazygit.git
 [submodule ".config/starship"]
 	path = .config/starship
-	url = /home/raul/.config/starship
+	url = https://github.com/Cerpint4xt/starship.git
 [submodule ".config/tmux"]
 	path = .config/tmux
-	url = /home/raul/.config/tmux
+	url = https://github.com/Cerpint4xt/tmux.git
